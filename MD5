@@ -1,7 +1,7 @@
-9d4b3832c0b80b4460af15f97e5a9575 *DESCRIPTION
+1c03607898c8f322a92007d019f20d4a *DESCRIPTION
 a80dc898172e9d50943d46ff3f80f6ea *LICENSE
 606dc38deaababf488dd0694d81f7bdb *NAMESPACE
-9221811c125906d9051a83509645ded3 *NEWS.md
+c1d31d85fa82f76c4fb8f203c2fe2636 *NEWS.md
 83fe9be54fa0902eb31d719ebeef28ab *R/Cond_mean_fn.R
 27d59614817554c02dc06b98b7c5c4db *R/PCORI_example_data.R
 dc6bd8bc8d1d9775e42e8654a21d7ada *R/PCORI_fulldata_model.R
@@ -18,7 +18,7 @@ cc31b54744eb21f8b82296afdf1d1f99 *R/cumuSIR_new.R
 b04c60be9d1ff293593db637a83ec3e1 *R/estimate_baseline_intensity.R
 a7ea62aca73ab388322f08d6ecfb9768 *R/impute_patient_df.R
 b085bd140cc922c1e6cb7e8beb8be1ad *R/influence.R
-4675f0e9fcbdf8200f15d7dd64c574d5 *R/jackknife.R
+d114cf4671c3957bf173efab6bd6619e *R/jackknife.R
 936cd6f59958530f14d4581dcf9220ca *R/numerically_integrate_influence_term_2_for_one_alpha_and_one_patient.R
 e77dfe6c7aec6dc9dbb93e0a4f605359 *R/pcori_conditional_means.R
 800ccb93008fa9f9e1f56efcd4b5c4e7 *R/pcori_control.R
@@ -46,7 +46,7 @@ a0f106440a615f994d3d57de5a565340 *man/predict.SensIAT_within_group_model.Rd
 f97db2556a4dce3f17db79efce442ffc *src/NW.cpp
 c02f0621687400ee3e9bbe266daaf1b9 *src/RcppExports.cpp
 4c48d64516d977ea3a8dc721f3e21499 *src/common.cpp
-53c12f747ac8bf7ee231674286ae4b3f *src/common.h
+cdea39c01aaf0b720ccb9d4930631036 *src/common.h
 4ba4f52df10fe44cc5b4e6d6f10e729b *src/compute_influence_term_2_quadv_sim_via_matrix.cpp
 b88a044922eea9390f328f27a7848eb8 *src/estimate_pmf.cpp
 ca9798a559fbbaf11e66bc2e2e809860 *src/estimate_pmf.h
@@ -61,4 +61,4 @@ c67255680428ac6dbc6ea16a885a886c *tests/testthat/test-influence_term1.R
 e5f2078f6c108d9010a0e79bc14cfe60 *tests/testthat/test-influence_term2-fixed.R
 852a9606918408a18c5994f588c21849 *tests/testthat/test-influence_term2.R
 9f7ec1dba5f0664cc0902c68c20b4b9b *tests/testthat/test-sim_outcome_modeler.R
-982ff2f6310afcfc1a2d2bc712a1affc *tests/testthat/test-splinebasis.R
+41c0bb12bce6f8e7a010c9f2c21c7792 *tests/testthat/test-splinebasis.R
